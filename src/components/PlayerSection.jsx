@@ -13,8 +13,8 @@ const PlayersSection = ({ coin, setCoin }) => {
       toast.warning(`${player.name} is already selected!`);
       return;
     }
-    if (selected.length >= 7) {
-        toast.error("You can only select up to 7 players!");
+    if (selected.length >= 11) {
+        toast.error("You can only select up to 11 players!");
         return;
       }
 
@@ -88,7 +88,7 @@ const PlayersSection = ({ coin, setCoin }) => {
   onClick={() => setView('selected')}
   className={`px-3 py-1 rounded ${view === 'selected' ? 'bg-blue-400 text-white' : 'border'}`}
 >
-  Selected ({selected.length}/7)
+  Selected ({selected.length}/11)
 </button>
 
   </div>
@@ -110,6 +110,18 @@ const PlayersSection = ({ coin, setCoin }) => {
           <p className="text-gray-500">No players to show.</p>
         )}
       </div>
+      {view === 'selected' && selected.length < 11 && (
+  <div className="flex justify-center mt-8">
+    <button
+      onClick={() => setView('available')}
+     style={{ backgroundColor: 'rgb(231, 254, 41)' }}
+    className="hover:brightness-95 text-black font-semibold px-6 py-2 rounded shadow transition duration-200"
+    >
+      ➕ Add More Players
+    </button>
+  </div>
+)}
+
     </div>
   );
 };

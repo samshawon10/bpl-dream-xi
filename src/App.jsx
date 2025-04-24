@@ -13,7 +13,7 @@ function App() {
 
   const handleClaimCredit = () => {
     if (!hasClaimed) {
-      setCoin(prev => prev + 15000);
+      setCoin(prev => prev + 30000);
       setHasClaimed(true);
     }
   };

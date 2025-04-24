@@ -59,7 +59,7 @@ function Footer() {
                 />
                 <button
                   type="submit"
-                  className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-r-md transition-colors"
+                  className="bg-linear-to-r from-yellow-400 to-pink-400 hover:bg-blue-700 text-white px-4 py-2 rounded-r-md transition-colors"
                 >
                   Subscribe
                 </button>

@@ -79,7 +79,7 @@ export default function Newsletter() {
                 />
                 <button
                   type="submit"
-                  className="w-full sm:w-auto bg-blue-600 text-white font-semibold px-6 py-3 rounded-xl hover:bg-blue-700 transition-all duration-300"
+                  className="w-full sm:w-auto bg-linear-to-r from-pink-400 to-yellow-400 text-white font-semibold px-6 py-3 rounded-xl transition-all duration-300"
                 >
                   Subscribe
                 </button>
