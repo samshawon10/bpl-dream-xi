@@ -1,12 +1,52 @@
-# React + Vite
+# 🌟 Dream Team Selector
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Dream Team Selector** – a React-powered fantasy player selection application designed for cricket lovers! Strategically choose your players within a coin limit and build your ultimate team. 🚀
 
-Currently, two official plugins are available:
+## 🔥 Live Demo
+👉 [View Website](https://dream-team-s10.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Project Description
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Dream Team Selector is a dynamic player management platform where users can build their fantasy squad by selecting from a pool of available players. The app includes coin-based constraints, selection validation, and an interactive UI built with React and Tailwind CSS.
+
+---
+
+## 🛠️ Technologies Used
+
+- ⚛️ **React.js**
+- 💨 **Tailwind CSS**
+- 📦 **Vite**
+- 📁 **JSON Data**
+- 🔔 **React Toastify**
+- 😊 **DaisyUi**
+
+---
+
+## 💡 Key Features
+
+1. **🎯 Coin-Based Player Selection**
+   - Choose players within a given coin limit and get real-time coin updates.
+
+2. **🔄 Dynamic Filtering**
+   - Toggle between all, available, and selected players with smooth UI transitions.
+
+3. **📣 Real-Time Notifications**
+   - Interactive toasts guide users through selections, errors, and warnings using React-Toastify.
+
+----------------------------------------------------------------------------------------------------
+
+
+
+## 📁 Folder Structure
+
+
+📦src
+ ┣ assets
+ ┣ 📂components
+ ┃ ┗ 📄PlayersSection.jsx
+ ┃ ┗ 📄PlayerCard.jsx
+ ┣ 📄App.jsx
+ ┣ 📄main.jsx
+ ┣ 📄players.json
