@@ -1,0 +1,262 @@
+[
+    {
+      "id": 1,
+      "name": "Shakib Al Hasan",
+      "price": 3000,
+      "role": "All-rounder",
+      "rating": 9.5,
+      "batting": "Left-hand bat",
+      "bowling": "Left-arm orthodox",
+      "img": "https://i.ibb.co.com/67xxSFX2/sakib.png"
+    },
+    {
+      "id": 2,
+      "name": "Tamim Iqbal",
+      "price": 2500,
+      "role": "Batsman",
+      "rating": 8.8,
+      "batting": "Left-hand bat",
+      "bowling": "Right-arm offbreak",
+      "img": "https://i.ibb.co.com/gMrJmnL4/Tamim-Iqbal.webp"
+    },
+    {
+      "id": 3,
+      "name": "Taskin Ahmed",
+      "price": 2000,
+      "role": "Bowler",
+      "rating": 8.5,
+      "batting": "Right-hand bat",
+      "bowling": "Right-arm fast",
+      "img": "https://i.ibb.co.com/GvttYhqq/taskin.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mushfiqur Rahim",
+      "price": 2800,
+      "role": "Wicket Keeper",
+      "rating": 9.0,
+      "batting": "Right-hand bat",
+      "bowling": "N/A",
+      "img": "https://i.ibb.co.com/9kDJ6060/musfiq.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Litton Das",
+      "price": 2600,
+      "role": "Batsman",
+      "rating": 8.6,
+      "batting": "Right-hand bat",
+      "bowling": "N/A",
+      "img": "https://i.ibb.co.com/0jFqL5pY/liton.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mehidy Hasan",
+      "price": 2200,
+      "role": "All-rounder",
+      "rating": 8.9,
+      "batting": "Right-hand bat",
+      "bowling": "Right-arm offbreak",
+      "img": "https://i.ibb.co.com/3mxyVc0z/mehidy.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Mustafizur Rahman",
+      "price": 2400,
+      "role": "Bowler",
+      "rating": 8.7,
+      "batting": "Left-hand bat",
+      "bowling": "Left-arm fast-medium",
+      "img": "https://i.ibb.co.com/N2B7wz0F/mustafiz.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mahmudullah Riyad",
+      "price": 2700,
+      "role": "All-rounder",
+      "rating": 8.4,
+      "batting": "Right-hand bat",
+      "bowling": "Right-arm offbreak",
+      "img": " https://i.ibb.co.com/hJ5dL7qg/mahmudullah.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Afif Hossain",
+      "price": 2100,
+      "role": "Batsman",
+      "rating": 8.2,
+      "batting": "Left-hand bat",
+      "bowling": "Right-arm offbreak",
+      "img": "https://i.ibb.co.com/SDPr1Kdv/afif.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Soumya Sarkar",
+      "price": 1000,
+      "role": "All-rounder",
+      "rating": 8.3,
+      "batting": "Left-hand bat",
+      "bowling": "Right-arm medium",
+      "img": "https://i.ibb.co.com/MDSjZ4Wt/soumya.jpg"
+    },
+    
+        {
+          "id": 11,
+          "name": "Babar Azam",
+          "price": 3000,
+          "role": "Batsman",
+          "rating": 9.6,
+          "batting": "Right-hand bat",
+          "bowling": "N/A",
+          "img": "https://i.ibb.co.com/CK3CSK61/babar.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Shaheen Afridi",
+          "price": 2800,
+          "role": "Bowler",
+          "rating": 9.2,
+          "batting": "Left-hand bat",
+          "bowling": "Left-arm fast",
+          "img": "https://i.ibb.co.com/ZR5Czr53/shaheen.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Mohammad Rizwan",
+          "price": 2900,
+          "role": "Wicket Keeper",
+          "rating": 9.0,
+          "batting": "Right-hand bat",
+          "bowling": "N/A",
+          "img": "https://i.ibb.co.com/1JL3YMFL/rixwan.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Shadab Khan",
+          "price": 2600,
+          "role": "All-rounder",
+          "rating": 8.8,
+          "batting": "Right-hand bat",
+          "bowling": "Legbreak googly",
+          "img": "https://i.ibb.co.com/kV0Vk33D/shadab.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Fakhar Zaman",
+          "price": 2500,
+          "role": "Batsman",
+          "rating": 8.5,
+          "batting": "Left-hand bat",
+          "bowling": "Slow left-arm orthodox",
+          "img": "https://i.ibb.co.com/rGGkPtV1/fakhar.jpg"
+        },
+        
+            {
+              "id": 16,
+              "name": "Virat Kohli",
+              "price": 3200,
+              "role": "Batsman",
+              "rating": 9.7,
+              "batting": "Right-hand bat",
+              "bowling": "Right-arm medium",
+              "img": "https://i.ibb.co.com/RqNkFfY/virat.jpg"
+            },
+            {
+              "id": 17,
+              "name": "Rohit Sharma",
+              "price": 3100,
+              "role": "Batsman",
+              "rating": 9.4,
+              "batting": "Right-hand bat",
+              "bowling": "Right-arm offbreak",
+              "img": "https://i.ibb.co.com/ymWP32pp/rohit.jpg"
+            },
+            {
+              "id": 18,
+              "name": "Hardik Pandya",
+              "price": 2700,
+              "role": "All-rounder",
+              "rating": 8.9,
+              "batting": "Right-hand bat",
+              "bowling": "Right-arm fast-medium",
+              "img": "https://i.ibb.co.com/RGjBJH10/hardik.jpg"
+            },
+            {
+              "id": 19,
+              "name": "Ravindra Jadeja",
+              "price": 2900,
+              "role": "All-rounder",
+              "rating": 9.0,
+              "batting": "Left-hand bat",
+              "bowling": "Left-arm orthodox",
+              "img": "https://i.ibb.co.com/zVV24rJn/jadeja.jpg"
+            },
+            {
+              "id": 20,
+              "name": "Jasprit Bumrah",
+              "price": 3000,
+              "role": "Bowler",
+              "rating": 9.6,
+              "batting": "Right-hand bat",
+              "bowling": "Right-arm fast",
+              "img": "https://i.ibb.co.com/d0YTTBws/bumra.jpg"
+            },
+            {
+              "id": 21,
+              "name": "KL Rahul",
+              "price": 2800,
+              "role": "Wicket Keeper",
+              "rating": 8.7,
+              "batting": "Right-hand bat",
+              "bowling": "N/A",
+              "img": "https://i.ibb.co.com/4cNRKh7/rahul.jpg"
+            },
+            {
+              "id": 22,
+              "name": "Shubman Gill",
+              "price": 2600,
+              "role": "Batsman",
+              "rating": 8.8,
+              "batting": "Right-hand bat",
+              "bowling": "N/A",
+              "img": "https://i.ibb.co.com/Gv3Mp8g7/gill.jpg"
+            },
+            {
+              "id": 23,
+              "name": "Rishabh Pant",
+              "price": 2700,
+              "role": "Wicket Keeper",
+              "rating": 8.9,
+              "batting": "Left-hand bat",
+              "bowling": "N/A",
+              "img": "https://i.ibb.co.com/bMQFYZXL/pant.jpg"
+            },
+            {
+              "id": 24,
+              "name": "Mohammed Siraj",
+              "price": 2500,
+              "role": "Bowler",
+              "rating": 8.6,
+              "batting": "Right-hand bat",
+              "bowling": "Right-arm fast",
+              "img": "https://i.ibb.co.com/HLPqXsTX/siraj.jpg"
+            },
+            {
+              "id": 25,
+              "name": "Yuzvendra Chahal",
+              "price": 2400,
+              "role": "Bowler",
+              "rating": 8.5,
+              "batting": "Right-hand bat",
+              "bowling": "Right-arm legbreak",
+              "img": "https://i.ibb.co.com/yxVgJjF/chahal.jpg"
+            }
+
+
+      ]
+      
+      
+      
+      
+
+
